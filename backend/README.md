@@ -48,4 +48,4 @@ $ yarn dev
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=FastFeet&uri=https%3A%2F%2Fraw.githubusercontent.com%2FGuihenrry%2Ffastfeet%2Fmaster%2Fbackend%2Finsomnia.json)
 
-
+Feito com ♥ by Gui Henrry ✌
