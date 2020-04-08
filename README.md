@@ -17,6 +17,6 @@ Depois do repositório clonado pode seguir o passo a passo para cada ambiente.
 
 - [backend](https://github.com/Guihenrry/fastfeet/blob/master/backend/README.md)
 - [frontend](https://github.com/Guihenrry/fastfeet/tree/master/frontend)
-- [mobile](https://github.com/Guihenrry/fastfeet/tree/master/mobile)
+- [mobile](https://github.com/Guihenrry/fastfeet/tree/master/mobile) (desenvolvido apenas em android)
 
 Feito com ♥ by Gui Henrry ✌
