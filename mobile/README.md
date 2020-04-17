@@ -7,7 +7,7 @@
 
 
 ## Como execultar
-Para testar esta aplicação você precisará utilizar um emulador ou execultar em seu dispositivos fisico. [Tutorial para configurar ambiente react native](https://docs.rocketseat.dev/ambiente-react-native/introducao)
+Para testar esta aplicação você precisará utilizar um emulador ou execultar em seu dispositivos fisico. [Tutorial para configurar ambiente react native](https://react-native.rocketseat.dev/)
 
 ```bash
 # Instalar dependencias
