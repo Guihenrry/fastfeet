@@ -35,9 +35,9 @@ git clone https://github.com/Guihenrry/fastfeet.git
 ```
 Este repositorio contém aplicação completa backend, frontend e mobile. Por isso separei o processo de instalação para cada ambiente.
 
-- [backend](https://github.com/Guihenrry/fastfeet/tree/master/backend)
-- [frontend](https://github.com/Guihenrry/fastfeet/tree/master/frontend)
-- [mobile](https://github.com/Guihenrry/fastfeet/tree/master/mobile)
+- [backend](https://github.com/Guihenrry/fastfeet/blob/master/backend/README.md)
+- [frontend](https://github.com/Guihenrry/fastfeet/blob/master/frontend/README.md)
+- [mobile](https://github.com/Guihenrry/fastfeet/blob/master/mobile/README.md) (desenvolvido apenas em android)
 
 ## Licença
 Este projeto está sobre a [licença MIT](https://github.com/Guihenrry/fastfeet/blob/master/LICENSE).

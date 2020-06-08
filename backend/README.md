@@ -16,6 +16,8 @@
   <img alt="License" src="https://img.shields.io/badge/licence-MIT-%237D40E7">
 </p>
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=FastFeet&uri=https%3A%2F%2Fraw.githubusercontent.com%2FGuihenrry%2Ffastfeet%2Fmaster%2Fbackend%2Finsomnia.json)
+
 
 # Como utilizar
 
