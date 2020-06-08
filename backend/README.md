@@ -1,6 +1,25 @@
-# Passo a passo para execultar o Backend 
+<h1 align="center">
+  <img alt="Fastfeet" src="../.github/logo.svg" width="250px" />
+</h1>
 
-**OBS:** Para utilizar este projeto será necessário um banco de dados postgres.  
+<h3 align="center">
+  API REST Node.js para o aplicativo fastfeet
+</h3>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Guihenrry/fastfeet?color=%237D40E7">
+
+  <a href="https://www.linkedin.com/in/guilhermehenrry/">
+    <img alt="Made by Gui Henrry" src="https://img.shields.io/badge/made%20by-Gui%20Henrry-%237D40E7">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/licence-MIT-%237D40E7">
+</p>
+
+
+# Como utilizar
+
+**OBS:** Para utilizar este projeto será necessário um banco de dados postgres.
 
 ### Instale dependência
 ```bash
@@ -21,7 +40,7 @@ DB_PASS=
 DB_NAME=
 ```
 
-### Execultar as migration 
+### Execultar as migration
 É preciso execultar as migration para criar a estutura do banco de dados
 ```bash
 $ yarn sequelize db:migrate
@@ -46,6 +65,6 @@ admin@fastfeet.com
 $ yarn dev
 ```
 
+---
 
-
-
+Feito com 💜 by [Gui Henrry](https://www.linkedin.com/in/guilhermehenrry/) ✌
